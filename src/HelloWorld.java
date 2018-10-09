@@ -14,5 +14,9 @@ public class HelloWorld {
     private void Test4(){
         System.out.println("I'm casey");
     }
+
+    private void Test5(){
+        System.out.println("I'm casey");
+    }
 }
 
