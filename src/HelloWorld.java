@@ -4,6 +4,12 @@ public class HelloWorld {
     }
 
     private void Test(){
-        System.out.println("I'm casey");;
+        System.out.println("I'm casey");
     }
+
+    private void Test1(){
+        System.out.println("I'm casey");
+    }
+
+
 }
