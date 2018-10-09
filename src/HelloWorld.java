@@ -10,5 +10,9 @@ public class HelloWorld {
     private void Test1(){
         System.out.println("I'm casey");
     }
+    
+    private void Test4(){
+        System.out.println("I'm casey");
+    }
 }
 
